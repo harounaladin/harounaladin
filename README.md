@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @harounaladin
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on python projects
+- 👀 I’m interested in WebDev
+- 🌱 I’m currently learning .NET
+- 💞️ I’m looking to collaborate on .Net
 - 📫 How to reach me haroun.aladin@gmail.com
 
 <!---
